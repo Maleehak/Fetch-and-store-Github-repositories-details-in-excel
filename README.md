@@ -1,4 +1,4 @@
-# Fetch and store Github repositories details in excel
+# Github commits details in excel
 
 ##### Dependencies
 - EPPlus : To perform CRUD in Excel from c#
